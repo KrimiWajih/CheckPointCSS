@@ -1,0 +1,40 @@
+.info {
+  color: darkorange;
+
+  text-align: left;
+}
+.header {
+  border-style: groove;
+
+  background-color: aqua;
+}
+.header a {
+  color: red;
+  text-decoration: none;
+  margin-left: 20%;
+
+  text-transform: uppercase;
+}
+
+#profile {
+  color: green;
+  padding-left: 1%;
+  text-align: left;
+  border-style: ridge;
+
+  background-color: bisque;
+}
+#projects {
+  color: green;
+  border-style: dotted;
+  background-color: aquamarine;
+}
+
+#contact {
+  border-style: dashed;
+  border-color: brown;
+
+  padding-left: 1%;
+  color: blue;
+  background-color: blanchedalmond;
+}
